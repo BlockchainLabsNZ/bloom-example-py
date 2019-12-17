@@ -1,3 +1,5 @@
+Tested with Python 3.7.
+
 1. Install requirements:
   ```
   pip install -r requirements.txt
